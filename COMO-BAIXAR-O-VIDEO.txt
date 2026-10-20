@@ -1,13 +1,15 @@
-VÍDEO COMPLETO DE HALLOWEEN
+VÍDEO COMPLETO DE HALLOWEEN — EDIÇÃO REVISADA
 
 1. Abra HALLOWEEN-COMPLETO.mp4 no GitHub.
 2. Clique na seta de download (Download raw file).
-3. Após baixar, abra o MP4 no computador.
+3. Baixe novamente e abra o novo MP4 no computador.
 
-O arquivo tem cerca de208MB, dura33min22s e já contém áudio, imagens e legendas. A página do GitHub pode não reproduzir um vídeo desse tamanho; baixe o arquivo para assistir.
+Arquivo de cerca de 168 MB, duração de 33min22s, com áudio, imagens e legendas.
+Esta edição tem 92 imagens distintas e 154 trocas reais, planejadas conforme a narração. A mesma imagem permanece no máximo cerca de 22 segundos. Áudio, trilha, efeitos, títulos e legendas da versão aprovada foram preservados.
 
-PREVIA-HALLOWEEN.mp4 é apenas a abertura de25s.
-LEGENDAS-HALLOWEEN.srt é uma cópia editável das legendas.
-CAPITULOS-YOUTUBE.txt contém os horários para a descrição do YouTube.
+PREVIA-HALLOWEEN.mp4 mostra os primeiros 25 segundos da nova edição.
+LEGENDAS-HALLOWEEN.srt contém as legendas editáveis, mantidas.
+CAPITULOS-YOUTUBE.txt contém os horários para a descrição, mantidos.
+MELHORIAS-VISUAIS.txt descreve a revisão.
 
-Música e efeitos foram sintetizados para a edição, sem gravações de terceiros. As ilustrações foram geradas por IA.
+Se a página do GitHub não reproduzir o MP4, baixe o arquivo para assistir.
