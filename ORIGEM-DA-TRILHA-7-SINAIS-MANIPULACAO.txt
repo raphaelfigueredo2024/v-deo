@@ -1,0 +1,8 @@
+Trilha instrumental original criada para este vídeo por síntese matemática em NumPy.
+Timbres suaves semelhantes a piano felt e camadas harmônicas contemplativas.
+Sem músicas, gravações, instrumentos amostrados ou efeitos de terceiros.
+Composição nova: seed 251020267, família Mi menor/Sol maior, três motivos discretos; mistério psicológico evolui até reconhecimento e autonomia.
+Variações acompanham as ideias narradas, sem vinhetas, stingers ou marcações de capítulos.
+Música reduzida adicionalmente em 3 dB em relação ao preset 22/10: ganho instrumental 1.55 → 1.097315965795, mesmos filtros e ducking.
+Nível/clareza da voz preservados pelo mesmo preset de normalização; master a -16 LUFS.
+Nenhuma ferramenta de geração de voz foi usada; a narração integral é o áudio fornecido pelo usuário, sem cortes nem alteração de velocidade.
