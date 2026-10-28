@@ -1,0 +1,3 @@
+MR. VULTO — ORIGINAL MUSIC AND SOUND EFFECTS
+
+The quiet suspense score and intercom/paper/chair accents were composed and synthesized mathematically for this video with NumPy and FFmpeg. No third-party music recordings, samples or sound effects were used. No generated speech was added. The supplied English narration is preserved in full, at its original speed, beginning after the8-second title. Music is automatically lowered under speech.
